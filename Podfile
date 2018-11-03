@@ -1,7 +1,3 @@
-# XHCocoapodsTestDemo
-
-### Podfile 文件的常规模板化内容
-
 source 'https://github.com/CocoaPods/Specs.git'
 
 platform :ios, '8.0'
